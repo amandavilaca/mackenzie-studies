@@ -1,1 +1,1 @@
-# mackenzie-studies
+# Mackenzie studies
