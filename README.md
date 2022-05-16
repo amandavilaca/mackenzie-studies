@@ -1,1 +1,4 @@
-# Mackenzie studies
+# Mackenzie Studies
+
+* Algorithms & Programming
+`python`
